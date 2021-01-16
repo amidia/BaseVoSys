@@ -1,0 +1,13 @@
+{
+    "name": "BaseVoSys",
+    "alias": "basevosys",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BaseVoSys\\Providers\\BaseVoSysServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
