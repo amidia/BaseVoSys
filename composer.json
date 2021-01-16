@@ -22,5 +22,8 @@
 		"psr-4": {
 			"myvo\\basevosys\\": ""
 		}
+	},
+	"require": {
+		"spatie/laravel-permission": "^3.18"
 	}
 }
