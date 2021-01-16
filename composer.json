@@ -13,9 +13,14 @@
 			"aliases": {}
 		}
 	},
-	"autoload": {
+	"autoload-dev": {
 		"psr-4": {
 			"Modules\\BaseVoSys\\": ""
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"myvo\\basevosys\\": ""
 		}
 	}
 }
